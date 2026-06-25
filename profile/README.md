@@ -47,3 +47,5 @@ runs. It's an **early beta** — expect a few rough edges, and tell us what brea
 
 <sub>📄 <a href="https://github.com/Siamang-Labs/siamang/blob/main/docs/cloud/terms-of-use.md">Terms</a> ·
 <a href="https://github.com/Siamang-Labs/siamang/blob/main/docs/cloud/privacy-policy.md">Privacy</a></sub>
+
+<sub>© 2026 Siamang Labs LLC</sub>
